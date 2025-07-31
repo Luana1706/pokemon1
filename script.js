@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             id: 150,
             name: 'Mewtwo',
-            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png',
+            image: 'https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/700.png',
             types: ['psychic']
         }
     ];
